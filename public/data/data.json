@@ -1,0 +1,42 @@
+[
+    {
+        "id" : "P1",
+        "name": "iPhone 14 Pro Max",
+        "storage": "256GB",
+        "color": "Deep Purple",
+        "price": 999,
+        "quantity": 0,
+        "shipping": 9,
+        "img": "/img/iphone-14-pro.png"
+    },
+    {
+        "id" : "P2",
+        "name": "iPhone 14",
+        "storage": "256GB",
+        "color": "Space Black",
+        "price": 899,
+        "quantity": 0,
+        "shipping": 8,
+        "img": "/img/iphone-14.png"
+    },
+    {
+        "id" : "P3",
+        "name": "iPhone 13",
+        "storage": "128GB",
+        "color": "Pink",
+        "price": 699,
+        "quantity": 0,
+        "shipping": 6,
+        "img": "/img/iphone-13.png"
+    },
+    {
+        "id" : "P4",
+        "name": "iPhone 13 Mini",
+        "storage": "128GB",
+        "color": "Red",
+        "price": 599,
+        "quantity": 0,
+        "shipping": 5,
+        "img": "/img/iphone-13-mini.png"
+    }
+]
